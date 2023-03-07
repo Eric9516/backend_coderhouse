@@ -1,0 +1,18 @@
+{
+	"name": "trabajo-practico-03---servidor-con-express",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon src/server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	}
+}

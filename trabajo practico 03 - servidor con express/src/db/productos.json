@@ -1,0 +1,47 @@
+[
+	{
+		"title": "Monitor",
+		"description": "ultra hd",
+		"price": 70000,
+		"thumbnail": "no hay",
+		"code": 5000,
+		"stock": 3,
+		"id": 1
+	},
+	{
+		"title": "Notebook",
+		"description": "HP",
+		"price": 200000,
+		"thumbnail": "no hay",
+		"code": 5003,
+		"stock": 2,
+		"id": 2
+	},
+	{
+		"title": "Mouse",
+		"description": "logitech",
+		"price": 15000,
+		"thumbnail": "no hay",
+		"code": 5006,
+		"stock": 6,
+		"id": 3
+	},
+	{
+		"title": "Teclado",
+		"description": "redragon",
+		"price": 20000,
+		"thumbnail": "no hay",
+		"code": 5001,
+		"stock": 1,
+		"id": 4
+	},
+	{
+		"title": "MousePad",
+		"description": "redragon",
+		"price": 10000,
+		"thumbnail": "no hay",
+		"code": 5009,
+		"stock": 5,
+		"id": 5
+	}
+]
