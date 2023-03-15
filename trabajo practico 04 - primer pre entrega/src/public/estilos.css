@@ -1,0 +1,8 @@
+body {
+	background-color: #ededed;
+}
+.pag_no_encontrada {
+	margin-top: 50px;
+	display: grid;
+	justify-items: center;
+}
